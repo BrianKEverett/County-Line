@@ -1,0 +1,116 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><meta http-equiv="Content-Language" content="en"><meta http-equiv="Content-Style-Type" content="text/css"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta name="author" content="Deparment of Health"><meta name="description" content="New Jersey BRFSS data"><meta name="keywords" content=""><title>NJSHAD - 
+		Query Result - New Jersey Behavioral Risk Factor Survey Data - Not Covered by Any Kind of Health Care Coverage - Crude Rate</title><style>
+				a.Top {display: none;}
+			</style></head><body><div id="page"><div><h3 title="&#xA;&#x9;Proportion of adults who currently have health care coverage &#xA;&#x9;(including health insurance, prepaid plans such as HMOs, or government plans such as Medicare)&#xA;">Query Criteria for the Not Covered by Any Kind of Health Care Coverage - Crude Rate Measure</h3><table id="userCriteria" class="Info" summary="The first column is a title of that type of selection with       the next column showing a list of selected values.      " caption="Result row and column group by selections."><tr><th scope="row" title="Filtering criteria for dimension name: Uninsured">Health insurance coverage Filter:
+				</th><td title="Comma separated list of all selected filtering values">Has Coverage</td></tr><tr><th scope="row" title="Filtering criteria for dimension name: Year11_All">Year Filter:
+				</th><td title="Comma separated list of all selected filtering values">2020</td></tr><tr><th scope="row" title="Filtering criteria for dimension name: SurvDemoEdu">Educational Attainment Filter:
+				</th><td title="Comma separated list of all selected filtering values">Some College or Tech, College Graduate</td></tr><tr><th scope="row" title="Filtering criteria for dimension name: SurvDemoEmp">Employment Status Filter:
+				</th><td title="Comma separated list of all selected filtering values">Employed for wages</td></tr><tr><th scope="row" title="Defines how the data are grouped/rolled up by.">Data Grouped By:</th><td title="Row is listed first." style="width:75%">County of Residence</td></tr></table></div><br><h2 title="Lists all query values with numerator, denominator, and confidence limit values">Data List</h2><div class="ScrollableContainer"><table id="resultsTable" class="Info" summary="Query result data table that lists a data cell for each criteria dimension." caption="Data table which lists the values for &#xA;&#x9;Proportion of adults who currently have health care coverage &#xA;&#x9;(including health insurance, prepaid plans such as HMOs, or government plans such as Medicare)&#xA;"><thead><tr><th scope="col" title="Record's Grouped By Dimension">County of Residence</th><th scope="col" class="Value" title="Dimension value for County of Residence">County of Residence ID
+						</th><th scope="col" class="Value" title="Total Number of Surveys in the Sample">Sample Size</th><th scope="col" class="Value" title="">Percent</th><th scope="col" class="Value" title="Confidence Bounds - Lower Limit. &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;The confidence interval may be thought of as the range &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;of probable true values for a statistic.&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;">95% CI LL</th><th scope="col" class="Value" title="Confidence Bounds - Upper Limit. &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;The confidence interval may be thought of as the range &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;of probable true values for a statistic.&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;">95% CI UL</th><th scope="col" class="Value" title="The MOE is an indicator of statistical reliability.">Margin of Error</th><th scope="col" class="Value" title="The RSE is an indicator of statistical reliability.">Relative Standard Error</th></tr></thead><tfoot><tr><td colspan="16"><div class="RecordCount">Record Count: 22</div><div class="SupressedCellMessage">
+			
+			**The value has been suppressed because it does not meet standards of reliability or precision or because it could be used to calculate the number in a cell that has been suppressed.  Consider aggregating years to improve the reliability of the estimate.
+		</div></td></tr></tfoot><tbody><tr><th scope="row" title="Total of all data values for this dimension.">Total</th><th title="Dimension value or ID for Total">.</th><td class="Value">4,046</td><td class="Value" title="95.0">95.0%</td><td class="Value">94.1%</td><td class="Value">95.7%</td><td class="Value" title="0.0080">.8%</td><td class="Value" title="0.0812">8.1%</td></tr><tr><th scope="row" title="GeoCnty: 1">Atlantic</th><th title="Dimension value or ID for Atlantic">1</th><td class="Value">114</td><td class="Value" title="95.6">95.6%</td><td class="Value">85.8%</td><td class="Value">98.7%</td><td class="Value" title="0.0537">5.4%</td><td class="Value" title="0.6240">62.4%</td></tr><tr><th scope="row" title="GeoCnty: 2">Bergen</th><th title="Dimension value or ID for Bergen">2</th><td class="Value">390</td><td class="Value" title="95.1">95.1%</td><td class="Value">92.1%</td><td class="Value">97.0%</td><td class="Value" title="0.0238">2.4%</td><td class="Value" title="0.2477">24.8%</td></tr><tr><th scope="row" title="GeoCnty: 3">Burlington</th><th title="Dimension value or ID for Burlington">3</th><td class="Value">240</td><td class="Value" title="96.7">96.7%</td><td class="Value">93.2%</td><td class="Value">98.4%</td><td class="Value" title="0.0241">2.4%</td><td class="Value" title="0.3733">37.3%</td></tr><tr><th scope="row" title="GeoCnty: 4">Camden</th><th title="Dimension value or ID for Camden">4</th><td class="Value">228</td><td class="Value" title="93.6">93.6%</td><td class="Value">88.6%</td><td class="Value">96.5%</td><td class="Value" title="0.0379">3.8%</td><td class="Value" title="0.3040">30.4%</td></tr><tr><th scope="row" title="GeoCnty: 5">Cape May</th><th title="Dimension value or ID for Cape May">5</th><td class="Value">41</td><td class="Value" title="**">**</td><td class="Value">**</td><td class="Value">**</td><td class="Value" title="0.0414">4.1%</td><td class="Value" title="0.9946">99.5%</td></tr><tr><th scope="row" title="GeoCnty: 6">Cumberland</th><th title="Dimension value or ID for Cumberland">6</th><td class="Value">49</td><td class="Value" title="**">**</td><td class="Value">**</td><td class="Value">**</td><td class="Value" title="0.0267">2.7%</td><td class="Value" title="0.6195">62.0%</td></tr><tr><th scope="row" title="GeoCnty: 7">Essex</th><th title="Dimension value or ID for Essex">7</th><td class="Value">353</td><td class="Value" title="94.1">94.1%</td><td class="Value">90.4%</td><td class="Value">96.4%</td><td class="Value" title="0.0294">2.9%</td><td class="Value" title="0.2546">25.5%</td></tr><tr><th scope="row" title="GeoCnty: 8">Gloucester</th><th title="Dimension value or ID for Gloucester">8</th><td class="Value">147</td><td class="Value" title="91.5">91.5%</td><td class="Value">81.5%</td><td class="Value">96.4%</td><td class="Value" title="0.0695">7.0%</td><td class="Value" title="0.4189">41.9%</td></tr><tr><th scope="row" title="GeoCnty: 9">Hudson</th><th title="Dimension value or ID for Hudson">9</th><td class="Value">225</td><td class="Value" title="91.1">91.1%</td><td class="Value">85.8%</td><td class="Value">94.5%</td><td class="Value" title="0.0427">4.3%</td><td class="Value" title="0.2445">24.4%</td></tr><tr><th scope="row" title="GeoCnty: 10">Hunterdon</th><th title="Dimension value or ID for Hunterdon">10</th><td class="Value">107</td><td class="Value" title="98.5">98.5%</td><td class="Value">95.0%</td><td class="Value">99.5%</td><td class="Value" title="0.0184">1.8%</td><td class="Value" title="0.6111">61.1%</td></tr><tr><th scope="row" title="GeoCnty: 11">Mercer</th><th title="Dimension value or ID for Mercer">11</th><td class="Value">222</td><td class="Value" title="96.3">96.3%</td><td class="Value">91.6%</td><td class="Value">98.4%</td><td class="Value" title="0.0310">3.1%</td><td class="Value" title="0.4309">43.1%</td></tr><tr><th scope="row" title="GeoCnty: 12">Middlesex</th><th title="Dimension value or ID for Middlesex">12</th><td class="Value">379</td><td class="Value" title="96.3">96.3%</td><td class="Value">93.8%</td><td class="Value">97.8%</td><td class="Value" title="0.0192">1.9%</td><td class="Value" title="0.2643">26.4%</td></tr><tr><th scope="row" title="GeoCnty: 13">Monmouth</th><th title="Dimension value or ID for Monmouth">13</th><td class="Value">287</td><td class="Value" title="94.9">94.9%</td><td class="Value">90.3%</td><td class="Value">97.4%</td><td class="Value" title="0.0332">3.3%</td><td class="Value" title="0.3316">33.2%</td></tr><tr><th scope="row" title="GeoCnty: 14">Morris</th><th title="Dimension value or ID for Morris">14</th><td class="Value">281</td><td class="Value" title="96.0">96.0%</td><td class="Value">92.6%</td><td class="Value">97.9%</td><td class="Value" title="0.0252">2.5%</td><td class="Value" title="0.3208">32.1%</td></tr><tr><th scope="row" title="GeoCnty: 15">Ocean</th><th title="Dimension value or ID for Ocean">15</th><td class="Value">216</td><td class="Value" title="96.1">96.1%</td><td class="Value">92.2%</td><td class="Value">98.1%</td><td class="Value" title="0.0275">2.8%</td><td class="Value" title="0.3630">36.3%</td></tr><tr><th scope="row" title="GeoCnty: 16">Passaic</th><th title="Dimension value or ID for Passaic">16</th><td class="Value">144</td><td class="Value" title="92.5">92.5%</td><td class="Value">86.7%</td><td class="Value">95.9%</td><td class="Value" title="0.0441">4.4%</td><td class="Value" title="0.2994">29.9%</td></tr><tr><th scope="row" title="GeoCnty: 17">Salem</th><th title="Dimension value or ID for Salem">17</th><td class="Value">21</td><td class="Value" title="**">**</td><td class="Value">**</td><td class="Value">**</td><td class="Value" title="0.1098">11.0%</td><td class="Value" title="0.8482">84.8%</td></tr><tr><th scope="row" title="GeoCnty: 18">Somerset</th><th title="Dimension value or ID for Somerset">18</th><td class="Value">192</td><td class="Value" title="97.9">97.9%</td><td class="Value">94.4%</td><td class="Value">99.2%</td><td class="Value" title="0.0211">2.1%</td><td class="Value" title="0.5096">51.0%</td></tr><tr><th scope="row" title="GeoCnty: 19">Sussex</th><th title="Dimension value or ID for Sussex">19</th><td class="Value">75</td><td class="Value" title="91.7">91.7%</td><td class="Value">77.4%</td><td class="Value">97.3%</td><td class="Value" title="0.0893">8.9%</td><td class="Value" title="0.5504">55.0%</td></tr><tr><th scope="row" title="GeoCnty: 20">Union</th><th title="Dimension value or ID for Union">20</th><td class="Value">279</td><td class="Value" title="95.1">95.1%</td><td class="Value">91.7%</td><td class="Value">97.1%</td><td class="Value" title="0.0262">2.6%</td><td class="Value" title="0.2707">27.1%</td></tr><tr><th scope="row" title="GeoCnty: 21">Warren</th><th title="Dimension value or ID for Warren">21</th><td class="Value">56</td><td class="Value" title="93.2">93.2%</td><td class="Value">79.9%</td><td class="Value">97.9%</td><td class="Value" title="0.0786">7.9%</td><td class="Value" title="0.5868">58.7%</td></tr></tbody></table></div><div><h3 title="">Data Notes</h3><div>
+		<h8>Weighted Estimates</h8>
+		<br>
+		The estimated percentages reported above have been produced by weighting 
+		the sample so that the results better represent the New Jersey population 
+		and to adjust for the probability of selection. The sample sizes reported 
+		in the table are unweighted.  Estimates calculated using the unweighted 
+		sample sizes will not be accurate. 
+
+		<h8>Denominator</h8>
+		<br>
+		Unless otherwise indicated, the denominator used for the calculation 
+		of these estimates includes all survey respondents except those with 
+		missing, don't know, and refused answers.  (If the query was limited 
+		to a particular sub-population-group, only those respondents are 
+		included in the denominator.)   
+	</div><br><div>
+		<nowrap>
+		<h8>Question Wording</h8>
+		<br>
+		Do you have any kind of health care coverage, including health insurance, 	
+		prepaid plans such as HMOs, or government plans such as Medicare?
+		<br>
+		<br>
+		<h2>Related Health Indicators and Objectives</h2>
+		<h8>Healthy New Jersey/Healthy People Objective(s):</h8>
+		<br>
+		<a href="http://www.state.nj.us/health/chs/hnj2020/documents/objectives/AccessToHealth.pdf">
+		Increase the proportion of persons with health insurance
+		[Aged under 65 years old] (HNJ 2020 Obj. AHS-1a)</a>
+		<br>
+		<a href="http://www.healthypeople.gov/2020/topics-objectives/topic/Access-to-Health-Services/objectives#3966">
+		Increase the proportion of persons with medical insurance (HP 2020 Obj. AHS 1-1)</a>
+		<br>
+		<a href="http://www.healthypeople.gov/2020/leading-health-indicators/2020-lhi-topics/Access-to-Health-Services">
+		The Access to Health Services (HP 2020 Leading Health Indicator) </a>
+		<br>               
+		<a href="ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/DATA2010/Focusarea01/O0101.pdf">
+		Increase the proportion of persons with health insurance (HP 2010 Obj. 1-1)</a>
+		<br>
+		<br>
+		<h8>Other Health Indicators and Objectives:</h8>
+		<br>
+		<a href="http://www.cdc.gov/cdi/definitions/overarching-conditions.html">
+		Current lack of health insurance among adults aged 18-64 years (CDC/CSTE Chronic Disease Indicator)</a>
+		<br>
+		<br>
+		<h8>SHAD Health Indicator Profile(s):</h8>
+		<br>
+		<a href="https://www-doh.state.nj.us/doh-shad/indicator/view/HealthInsCov.Under19Un.html">
+		Health Insurance Coverage </a>
+		</nowrap>
+	</div></div><div><h3 title="">Data Sources</h3><ul><li>
+		New Jersey Behavioral Risk Factor Survey, Center for Health Statistics, New Jersey Department of Health 
+	 
+	Suggested citation:  New Jersey Behavioral Risk Factor Survey (NJBRFS). 
+	New Jersey Department of Health, Center for Health Statistics, 
+	New Jersey State Health Assessment Data (NJSHAD) [online].  
+	Accessed at http://nj.gov/health/shad on [date] at [time].   
+
+
+	</li></ul></div><div><h3 title="">Data Issues</h3><div>
+		<h8>Survey Sample</h8>
+		<br>
+		The New Jersey Behavioral Risk Factor Survey is a survey 
+		of non-institutionalized New Jersey adults aged 18 and over 
+		conducted using scientific telephone survey methods.  Excluded 
+		are adults living in group quarters such as college dormitories, 
+		nursing homes, military barracks, and prisons.  (Individuals who 
+		cannot conduct the interview in English or Spanish have also been 
+		excluded from the survey since it began in 1991, and cell phone 
+		interviewing did not begin until 2011.)	
+
+		<h8>Statistical Reliability</h8>
+		<br>
+		The  <b>margin of error (MOE)</b>  is calculated as the standard error of the estimate multiplied by 1.96.  A MOE of 
+		3 percentage points or less is commonly used as a standard of reliability for opinion surveys, 
+		although the reliability of a measure should ideally be assessed in conjunction with the specific 
+		use to which it will be put.   
+		<br><br>
+		The <b>relative standard error (RSE)</b> also provides a measure of reliability for statistical estimates. 
+		The RSE is computed by dividing the standard error of the estimate by the estimate itself 
+		(or its complement, if the estimate itself is a proportion greater than 0.5) and multiplying 
+		by 100 to convert it to a percentage. (Estimates with a RSE above 25%-30% are commonly flagged 
+		as "unreliable" for government surveys, although the reliability of a measure should ideally 
+		be assessed in conjunction with the specific use to which it will be put.)
+		
+		<h8>2018 Data</h8>
+		<br>
+		The NJBRFS query module contains incomplete data for 2018; data for the NJBRFS project were collected from January to March and October to November only and by two different survey companies.  Additionally, supplemental data were received from other state BRFSS programs which conducted interviews throughout the year among New Jersey residents as part of a reciprocity agreement.  Although the data meet minimum requirements to be included in the national BRFSS public-use data set, please consider the differences in collection when comparing estimates across years.
+	</div></div><h2>Query Date Time Stamp</h2>
+		These data were queried on: Thu, 26 Oct 2023 11:46:30 EDT<br>
+			The dataset was last updated on:  Thu, 4 Aug 2022 22:33:58 EDT<div class="Footer">New Jersey Behavioral Risk Factor Survey, New Jersey Department of Health, PO Box 360, Trenton, NJ 08625-0360, Web: nj.gov/health/chs/njbrfs/, e-mail: chs@doh.nj.gov,</div><div id="printPageFooter">
+		The information provided above is from the Department of Health's NJSHAD web site (https://nj.gov/health/shad).  The information published 
+		on this website may be reproduced without permission. Please use the following citation:
+		"
+			Retrieved 
+			Thu, 26 October 2023 11:46:59
+			from Department of Health, New Jersey State Health Assessment Data Web site: https://nj.gov/health/shad
+		".
+
+		<br><br>
+			Content updated: Wed, 31 Dec 1969 19:00:01 EST</div></div></body></html>
